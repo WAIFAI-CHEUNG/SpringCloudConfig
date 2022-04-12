@@ -1,2 +1,2 @@
 config:
-  info: "springcloud-config,version=1.0,message=修改测试"
+  info: "springcloud-config,version=2.0"
